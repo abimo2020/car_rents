@@ -1,10 +1,10 @@
 # Technical Test Intern Sekawan Media
-==
+
 ## Email and Password :
 - Email : admin@gmail.com, Password : 123123123, Role : Admin
 - Email : head@gmail.com, Password : 123123123, Role : Head
 - Email : head1@gmail.com, Password : 123123123, Role : Head 
-##Techstack :
+## Techstack :
 - PHP v8.1
 - Laravel v10.10
 - MySQL v8.0.32
