@@ -13,7 +13,7 @@
 - Run composer install
 - Run php artisan key:generate
 - Run php artisan migrate --seed
-## How to use
+## How to use:
 - Open your terminal
 - Run php artisan serve
 - Login using email and password above
@@ -21,4 +21,5 @@
 - Login as admin or head to approval
 - If admin and head have to approve then return button will shown
 - If return button have been clicked the order will be done, and car is ready again to rent
-
+## ERD
+- ![ERD From MySQL Workbench](resources/img/erd.png)
